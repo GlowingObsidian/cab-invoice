@@ -1,4 +1,4 @@
- # cab-invoice
+# cab-invoice
 
 This is a simple interface for the calculation of taxi bill and the option to print it according to the user convinience
 
@@ -11,7 +11,7 @@ taxi number and so on.
 To use this file open command-prompt and redirect to the folder contaning the files and then type:
 
 java taxi (to run the file)
-javac taxi.java (to compile the file)
+ / javac taxi.java (to compile the file)
 
 The file is provided "AS IS"
 You are free to modify the file and release it with the GNU General public license provided
