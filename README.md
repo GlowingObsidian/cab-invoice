@@ -14,5 +14,5 @@ java taxi (to run the file)
  / javac taxi.java (to compile the file)
 
 The file is provided "AS IS"
-You are free to modify the file and release it with the GNU General public license provided
-that the owner does not provide any warranty and liabilty with the file.
+You are free to modify the file and release it with the GNU General public license provided with the files.
+No warranty or liability is provided.
